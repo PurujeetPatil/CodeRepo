@@ -36,6 +36,11 @@ public class link {
             temp = temp.next;
         }while(temp != null);
     }
+
+    static void testGit(){
+        //This method servers no purpose and is made only for GitHub.
+        System.out.println("hello Git");
+    }
 }
 
 class node {
