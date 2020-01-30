@@ -38,7 +38,7 @@ public class link {
     }
 
     static void testGit(){
-        //This method servers no purpose and is made only for GitHub.
+        //This method servers no purpose and is made only for GitHub. Testing pull request
         int var = 20;
         System.out.println("hello Git" + var);
     }
